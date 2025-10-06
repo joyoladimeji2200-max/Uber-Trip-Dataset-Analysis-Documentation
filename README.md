@@ -1,7 +1,6 @@
 # Uber Trip Dataset Analysis 
 
 ## Table of contents
-
 - [Project Overview](#project-overview)
 -	[Dataset Description](#dataset-description)
 -	[Data Dictionary](#data-dictionary)
