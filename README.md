@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Project Overview](#project-overview)
+- 	[Project Overview](#project-overview)
 -	[Dataset Description](#dataset-description)
 -	[Data Dictionary](#data-dictionary)
 -	[Exploratory Data Analysis](#exploratory-data-analysis)
